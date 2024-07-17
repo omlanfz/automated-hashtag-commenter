@@ -18,7 +18,7 @@ Prerequisites:
 Installation:
 -------------
 1. Clone the repository:
-   git clone https://github.com/yourusername/automated-hashtag-commenter.git
+   git clone https://github.com/omlanfz/automated-hashtag-commenter.git
    cd automated-hashtag-commenter
 
 2. Install the required packages:
